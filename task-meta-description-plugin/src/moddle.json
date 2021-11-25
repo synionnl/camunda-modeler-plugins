@@ -1,0 +1,11 @@
+{
+    "name": "Task meta description",    
+    "uri": "http://synion.nl/schema/meta/1.0",
+    "prefix": "meta",
+    "xml": {
+      "tagAlias": "lowerCase"
+    },
+    "types": [],
+    "emumerations": [],
+    "associations": []
+  }

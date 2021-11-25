@@ -1,0 +1,30 @@
+{
+  "name": "task-meta-description-plugin",
+  "version": "0.0.1",
+  "description": "With this plugin you can describe a task so that job handler code can be generated.",
+  "main": "index.js",
+  "scripts": {
+    "bundle": "webpack",
+    "bundle:watch": "webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synionnl/camunda-modeler-plugins.git"
+  },
+  "keywords": [
+    "camunda",
+    "modeler",
+    "plugin"
+  ],
+  "author": "Arjan Geertsema",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/synionnl/camunda-modeler-plugins/issues"
+  },
+  "homepage": "https://github.com/synionnl/camunda-modeler-plugins",
+  "devDependencies": {
+    "camunda-modeler-plugin-helpers": "^3.1.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
